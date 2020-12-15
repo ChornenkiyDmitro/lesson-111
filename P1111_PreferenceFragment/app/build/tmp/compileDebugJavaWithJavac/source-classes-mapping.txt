@@ -1,0 +1,8 @@
+com/example/p1111_preferencefragment/BuildConfig.java
+ com.example.p1111_preferencefragment.BuildConfig
+com/example/p1111_preferencefragment/Fragment1.java
+ com.example.p1111_preferencefragment.Fragment1
+com/example/p1111_preferencefragment/MainActivity.java
+ com.example.p1111_preferencefragment.MainActivity
+com/example/p1111_preferencefragment/Fragment2.java
+ com.example.p1111_preferencefragment.Fragment2
